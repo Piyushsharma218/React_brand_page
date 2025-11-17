@@ -20,7 +20,7 @@ function Hero() {
             <div className="shopping">
                 <p>Also Available On</p>
 
-                <div className="brand-icons">
+                <div className="brand-icons">   
                    <img src="/assets/flipkart.png" alt="flipkart" />
                    <img src="/assets/amazon.png" alt="amazon" />
                    
